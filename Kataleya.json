@@ -1,7 +1,7 @@
 {
   "commonVariables": [
     {
-      "starIcon": "${commonVariables.starIcon}",
+      "starIcon": " ",
       "suero": "Naranja Piña, Menta, Fresa, Manzana, Menta, Avellana, Cafe",
       "frappe": "Fresa, Guanábana, Naranja, Melocotón",
       "batido": "Naranja Piña, Menta, Fresa, Manzana, Mani",
@@ -28,7 +28,7 @@
       "price": 80,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- 1 o 2 bolas de helado</br>- 1 o 2 shots de espresso frio"
+      "descripcion": "-1 o 2 bolas de helado -1 o 2 shots de espresso frio"
     },
     {
       "id": "bombom",
@@ -38,7 +38,7 @@
       "price": 100,
       "agotado": 0,
       "favorito": 0,
-      "descripcion": "- 1 shot de espresso </br>- 1 cucharada de leche condensada."
+      "descripcion": "-1 shot de espresso -1 cucharada de leche condensada."
     },
     {
       "id": "frapuchino",
@@ -48,7 +48,7 @@
       "price": 100,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- 2 bolas de helado</br>- Topin"
+      "descripcion": "-2 bolas de helado -Topin"
     },
     {
       "id": "dalgona",
