@@ -13,7 +13,7 @@
     {
       "id": "expreso",
       "title": "Cafe Expresso",
-      "image": "./img_drink/expresso.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/expresso.png",
       "star": 4,
       "price": 50,
       "agotado": 0,
@@ -23,7 +23,7 @@
     {
       "id": "afogato",
       "title": "Cafe Afogato",
-      "image": "./img_drink/nose.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/nose.png",
       "star": 4,
       "price": 80,
       "agotado": 1,
@@ -33,7 +33,7 @@
     {
       "id": "bombom",
       "title": "Cafe Bombom",
-      "image": "./img_drink/bombom.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/bombom.png",
       "star": 4,
       "price": 100,
       "agotado": 0,
@@ -43,7 +43,7 @@
     {
       "id": "frapuchino",
       "title": "Cafe Frapuchino",
-      "image": "./img_drink/frapuchino.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/frapuchino.png",
       "star": 4,
       "price": 100,
       "agotado": 1,
@@ -53,7 +53,7 @@
     {
       "id": "dalgona",
       "title": "Dalgona",
-      "image": "./img_drink/cafeDalgona.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/cafeDalgona.png",
       "star": 4,
       "price": 200,
       "agotado": 1,
@@ -63,7 +63,7 @@
     {
       "id": "leche",
       "title": "Leche",
-      "image": "./img_drink/leche.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/leche.png",
       "star": 4,
       "price": 80,
       "agotado": 1,
@@ -73,7 +73,7 @@
     {
       "id": "capuchino",
       "title": "Capuchino",
-      "image": "./img_drink/capuchinoNew.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/capuchinoNew.png",
       "star": 4,
       "price": 120,
       "agotado": 1,
@@ -83,7 +83,7 @@
     {
       "id": "moka",
       "title": "Moka",
-      "image": "./img_drink/moka.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/moka.png",
       "star": 4,
       "price": 120,
       "agotado": 1,
@@ -93,7 +93,7 @@
     {
       "id": "ruso",
       "title": "Cafe Ruso",
-      "image": "./img_drink/ruso.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/ruso.png",
       "star": 5,
       "price": 80,
       "agotado": 1,
@@ -103,7 +103,7 @@
     {
       "id": "chocolate",
       "title": "Leche con Chocolate",
-      "image": "./img_drink/lecheConChocolate.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/lecheConChocolate.png",
       "star": 4,
       "price": 100,
       "agotado": 1,
@@ -113,7 +113,7 @@
     {
       "id": "cortadito",
       "title": "Cafe Cortadito",
-      "image": "./img_drink/cortadito.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/cortadito.png",
       "star": 5,
       "price": 80,
       "agotado": 1,
@@ -123,7 +123,7 @@
     {
       "id": "lecheconcafe",
       "title": "Leche con Cafe",
-      "image": "./img_drink/cafeConLeche.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/cafeConLeche.png",
       "star": 4,
       "price": 100,
       "agotado": 1,
@@ -135,7 +135,7 @@
     {
       "id": "Suero",
       "title": "Suero",
-      "image": "./img_drink/seuros.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/seuros.png",
       "star": 5,
       "price": 150,
       "agotado": 1,
@@ -145,7 +145,7 @@
     {
       "id": "Frappe",
       "title": "Frappe",
-      "image": "./img_drink/frape.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/frape.png",
       "star": 5,
       "price": 60,
       "agotado": 1,
@@ -155,7 +155,7 @@
     {
       "id": "VacaNegra",
       "title": "Vaca Negra",
-      "image": "./img_drink/vacanegra.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/vacanegra.png",
       "star": 4,
       "price": 100,
       "agotado": 1,
@@ -165,7 +165,7 @@
     {
       "id": "Naranjada",
       "title": "Naranjada",
-      "image": "./img_drink/naranjada_.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/naranjada_.png",
       "star": 4,
       "price": 100,
       "agotado": 0,
@@ -175,7 +175,7 @@
     {
       "id": "PiñaColada",
       "title": "Piña Colada",
-      "image": "./img_drink/piñacolada.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/piñacolada.png",
       "star": 4,
       "price": 100,
       "agotado": 0,
@@ -185,7 +185,7 @@
     {
       "id": "SuperYogurt",
       "title": "Super Yogurt",
-      "image": "./img_drink/superYogurt.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/superYogurt.png",
       "star": 4,
       "price": 150,
       "agotado": 1,
@@ -195,7 +195,7 @@
     {
       "id": "YogurtVaso",
       "title": "Yogurt en vaso",
-      "image": "./img_drink/yogures.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/yogures.png",
       "star": 4,
       "price": 80,
       "agotado": 1,
@@ -205,7 +205,7 @@
     {
       "id": "Batidos",
       "title": "Batidos",
-      "image": "./img_drink/batidos.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/batidos.png",
       "star": 5,
       "price": 120,
       "agotado": 1,
@@ -215,7 +215,7 @@
     {
       "id": "Pitufo",
       "title": "Pitufo",
-      "image": "./img_drink/Pitufo.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/Pitufo.png",
       "star": 5,
       "price": 80,
       "agotado": 0,
@@ -225,7 +225,7 @@
     {
       "id": "CopaRebelde",
       "title": "Copa Rebelde",
-      "image": "./img_drink/CopaRebelde.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/CopaRebelde.png",
       "star": 5,
       "price": 80,
       "agotado": 0,
@@ -235,7 +235,7 @@
     {
       "id": "SuperFrap",
       "title": "Super Frap",
-      "image": "./img_drink/superFrap.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/superFrap.png",
       "star": 5,
       "price": 200,
       "agotado": 1,
@@ -245,7 +245,7 @@
     {
       "id": "Chocomani",
       "title": "ChocoMani",
-      "image": "./img_drink/Chocomani.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/Chocomani.jpg",
       "star": 5,
       "price": 140,
       "agotado": 1,
@@ -255,7 +255,7 @@
     {
       "id": "CopaFantasia",
       "title": "Copa Fantasia",
-      "image": "./img_drink/copaFantasia1.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/copaFantasia1.png",
       "star": 5,
       "price": 200,
       "agotado": 1,
@@ -265,7 +265,7 @@
     {
       "id": "DaikiriChicle",
       "title": "Daikiri Chicle",
-      "image": "./img_drink/daikiriChicle.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/daikiriChicle.png",
       "star": 5,
       "price": 100,
       "agotado": 0,
@@ -277,7 +277,7 @@
     {
       "id": "Gelatina",
       "title": "Gelatina",
-      "image": "./img_drink/Gelatina.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/Gelatina.jpg",
       "star": 4,
       "price": 60,
       "agotado": 0,
@@ -287,7 +287,7 @@
     {
       "id": "Donas",
       "title": "Donas",
-      "image": "./img_drink/donas.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/donas.png",
       "star": 5,
       "price": 80,
       "agotado": 0,
@@ -297,7 +297,7 @@
     {
       "id": "Pizza",
       "title": "Pizza",
-      "image": "./img_drink/Pizza.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/Pizza.jpg",
       "star": 3,
       "price": 150,
       "agotado": 0,
@@ -307,7 +307,7 @@
     {
       "id": "PanPerrito",
       "title": "Pan con Perrito",
-      "image": "./img_drink/Perrito.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/Perrito.jpg",
       "star": 4,
       "price": 100,
       "agotado": 0,
@@ -317,7 +317,7 @@
     {
       "id": "PanMantequilla",
       "title": "Pan con Mantequilla",
-      "image": "./img_drink/Mantequilla.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/Mantequilla.jpg",
       "star": 3,
       "price": 50,
       "agotado": 0,
@@ -327,7 +327,7 @@
     {
       "id": "PanMayonesa",
       "title": "Pan con Mayonesa",
-      "image": "./img_drink/Mayonesa.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/Mayonesa.jpg",
       "star": 3,
       "price": 50,
       "agotado": 0,
@@ -337,7 +337,7 @@
     {
       "id": "MussKiwi",
       "title": "Muss de Kiwi",
-      "image": "./img_drink/copaDeKiwi.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/copaDeKiwi.png",
       "star": 5,
       "price": 100,
       "agotado": 1,
@@ -347,7 +347,7 @@
     {
       "id": "MussFresa",
       "title": "Copa Pasion",
-      "image": "./img_drink/musseFresa.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/musseFresa.jpg",
       "star": 5,
       "price": 200,
       "agotado": 1,
@@ -357,7 +357,7 @@
     {
       "id": "MussHelado",
       "title": "Muss Helado",
-      "image": "./img_drink/MussHelado.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/MussHelado.jpg",
       "star": 5,
       "price": 150,
       "agotado": 0,
@@ -367,7 +367,7 @@
     {
       "id": "Sandwichqueso",
       "title": "Sandwich de queso",
-      "image": "./img_drink/panes2.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/panes2.jpg",
       "star": 4,
       "price": 80,
       "agotado": 1,
@@ -379,7 +379,7 @@
     {
       "id": "Pomoagua",
       "title": "Pomo de agua",
-      "image": "./img_drink/PomoAgua.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/PomoAgua.jpg",
       "star": 4,
       "price": 50,
       "agotado": 1,
@@ -389,7 +389,7 @@
     {
       "id": "Energizantes",
       "title": "Bebidas Energizantes",
-      "image": "./img_drink/Energizantes.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/Energizantes.jpg",
       "star": 5,
       "price": 200,
       "agotado": 1,
@@ -399,7 +399,7 @@
     {
       "id": "Chupa",
       "title": "Chupa Chupa",
-      "image": "./img_drink/ChupaChupa.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/ChupaChupa.jpg",
       "star": 5,
       "price": 50,
       "agotado": 1,
@@ -409,7 +409,7 @@
     {
       "id": "Galletas",
       "title": "Galletas",
-      "image": "./img_drink/galletas60.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/galletas60.jpg",
       "star": 4,
       "price": 60,
       "agotado": 1,
@@ -419,7 +419,7 @@
     {
       "id": "Galletas2",
       "title": "Galletas",
-      "image": "./img_drink/galletas100.jpg",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/galletas100.jpg",
       "star": 5,
       "price": 100,
       "agotado": 1,
@@ -429,7 +429,7 @@
     {
       "id": "Gaseosa",
       "title": "Gaseosa",
-      "image": "./img_drink/gaseosa.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/gaseosa.png",
       "star": 5,
       "price": 180,
       "agotado": 1,
@@ -439,7 +439,7 @@
     {
       "id": "lata",
       "title": "Refresco de lata",
-      "image": "./img_drink/RefrescoG.png",
+      "image": "https://github.com/automa7ech-xs/AdminJson/blob/main/img_drink/RefrescoG.png",
       "star": 5,
       "price": 180,
       "agotado": 1,
