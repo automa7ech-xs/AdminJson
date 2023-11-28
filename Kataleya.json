@@ -16,7 +16,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/nose.png",
       "star": 4,
       "price": 80,
-      "agotado": 1,
+      "agotado": 0,
       "favorito": 1,
       "descripcion": "- 1 o 2 bolas de helado - 1 o 2 shots de espresso frio"
     },
@@ -86,7 +86,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/ruso.png",
       "star": 5,
       "price": 80,
-      "agotado": 1,
+      "agotado": 0,
       "favorito": 1,
       "descripcion": "- 1 taza de café fuerte.- 1 bola de helado."
     },
@@ -178,7 +178,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/superYogurt.png",
       "star": 4,
       "price": 150,
-      "agotado": 1,
+      "agotado": 0,
       "favorito": 1,
       "descripcion": "- Yogurt Natural - Topin"
     },
@@ -188,7 +188,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/yogures.png",
       "star": 4,
       "price": 80,
-      "agotado": 1,
+      "agotado": 0,
       "favorito": 0,
       "descripcion": "- Yogurt natural - Topin"
     },
@@ -269,8 +269,8 @@
       "title": "Gelatina",
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/Gelatina.jpg",
       "star": 4,
-      "price": 60,
-      "agotado": 0,
+      "price": 50,
+      "agotado": 1,
       "favorito": 0,
       "descripcion": "....."
     },
@@ -290,7 +290,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/Pizza.jpg",
       "star": 3,
       "price": 150,
-      "agotado": 0,
+      "agotado": 1,
       "favorito": 1,
       "descripcion": "....."
     },
@@ -360,7 +360,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/panes2.jpg",
       "star": 4,
       "price": 80,
-      "agotado": 1,
+      "agotado": 0,
       "favorito": 0,
       "descripcion": "....."
     }
