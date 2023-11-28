@@ -1,13 +1,4 @@
 {
-  "commonVariables": [
-    {
-      "suero": "Naranja Piña, Menta, Fresa, Manzana, Menta, Avellana, Cafe",
-      "frappe": "Fresa, Guanábana, Naranja, Melocotón",
-      "batido": "Naranja Piña, Menta, Fresa, Manzana, Mani",
-      "yogurt": "Coco arándano, Kiwi, Fresa, Arándanos",
-      "vaca": "..."
-    }
-  ],
   "product_cafe": [
     {
       "id": "expreso",
@@ -17,8 +8,7 @@
       "price": 50,
       "agotado": 0,
       "favorito": 0,
-      "descripcion": "- 1 o 2 shots de espresso",
-      "txt": "..."
+      "descripcion": "- 1 o 2 shots de espresso"
     },
     {
       "id": "afogato",
@@ -28,8 +18,7 @@
       "price": 80,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- 1 o 2 bolas de helado - 1 o 2 shots de espresso frio",
-      "txt": "..."
+      "descripcion": "- 1 o 2 bolas de helado - 1 o 2 shots de espresso frio"
     },
     {
       "id": "bombom",
@@ -39,8 +28,7 @@
       "price": 100,
       "agotado": 0,
       "favorito": 0,
-      "descripcion": "- 1 shot de espresso </br>- 1 cucharada de leche condensada.",
-      "txt": "..."
+      "descripcion": "- 1 shot de espresso - 1 cucharada de leche condensada."
     },
     {
       "id": "frapuchino",
@@ -50,8 +38,7 @@
       "price": 100,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- 2 bolas de helado</br>- Topin",
-      "txt": "..."
+      "descripcion": "- 2 bolas de helado- Topin"
     },
     {
       "id": "dalgona",
@@ -61,8 +48,7 @@
       "price": 200,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- Crema de café  </br>- Leche</br>- </br>- Topin de Café",
-      "txt": "..."
+      "descripcion": "- Crema de café  - Leche- - Topin de Café"
     },
     {
       "id": "leche",
@@ -72,8 +58,7 @@
       "price": 80,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- Leche en polvo</br>- Agua caliente",
-      "txt": "..."
+      "descripcion": "- Leche en polvo- Agua caliente"
     },
     {
       "id": "capuchino",
@@ -83,8 +68,7 @@
       "price": 120,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- 1 shot de espresso.</br>- 1/3 de leche caliente.</br>- 1/3 de espuma de leche caliente.",
-      "txt": "..."
+      "descripcion": "- 1 shot de espresso.- 1/3 de leche caliente.- 1/3 de espuma de leche caliente."
     },
     {
       "id": "moka",
@@ -94,8 +78,7 @@
       "price": 120,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- Café Capuchino .</br>- Chocolate.",
-      "txt": "..."
+      "descripcion": "- Café Capuchino .- Chocolate."
     },
     {
       "id": "ruso",
@@ -105,8 +88,7 @@
       "price": 80,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- 1 taza de café fuerte.</br>- 1 bola de helado.",
-      "txt": "..."
+      "descripcion": "- 1 taza de café fuerte.- 1 bola de helado."
     },
     {
       "id": "chocolate",
@@ -116,8 +98,7 @@
       "price": 100,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- Leche en polvo.</br>- Chocolate en polvo.</br>- Agua caliente.",
-      "txt": "..."
+      "descripcion": "- Leche en polvo.- Chocolate en polvo.- Agua caliente."
     },
     {
       "id": "cortadito",
@@ -127,8 +108,7 @@
       "price": 80,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": "- 1 shot de espresso.</br>- 1 shot de leche evaporada.",
-      "txt": "..."
+      "descripcion": "- 1 shot de espresso.- 1 shot de leche evaporada."
     },
     {
       "id": "lecheconcafe",
@@ -138,8 +118,7 @@
       "price": 100,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- Leche en polvo.</br>- Café instantáneo.</br>- Agua caliente",
-      "txt": "..."
+      "descripcion": "- Leche en polvo.- Café instantáneo.- Agua caliente"
     }
   ],
   "product_fria": [
@@ -151,8 +130,7 @@
       "price": 150,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": "- 3 bolsas de helado </br>- medio de helio </br>- media de leche",
-      "txt": "..."
+      "descripcion": "- 3 bolsas de helado - medio de helio - media de leche"
     },
     {
       "id": "Frappe",
@@ -162,8 +140,7 @@
       "price": 60,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": "- Esencia </br>- Medio de hielo",
-      "txt": "..."
+      "descripcion": "- Esencia - Medio de hielo"
     },
     {
       "id": "VacaNegra",
@@ -173,8 +150,7 @@
       "price": 100,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": "- Refresco gaseado </br>- 1 bola de helado",
-      "txt": "..."
+      "descripcion": "- Refresco gaseado - 1 bola de helado"
     },
     {
       "id": "Naranjada",
@@ -184,8 +160,7 @@
       "price": 100,
       "agotado": 0,
       "favorito": 0,
-      "descripcion": "- Refresco de naranja </br>- 1 bola de helado",
-      "txt": "..."
+      "descripcion": "- Refresco de naranja - 1 bola de helado"
     },
     {
       "id": "PiñaColada",
@@ -195,8 +170,7 @@
       "price": 100,
       "agotado": 0,
       "favorito": 0,
-      "descripcion": "....",
-      "txt": "..."
+      "descripcion": "...."
     },
     {
       "id": "SuperYogurt",
@@ -206,8 +180,7 @@
       "price": 150,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- Yogurt Natural </br>- Topin",
-      "txt": "..."
+      "descripcion": "- Yogurt Natural - Topin"
     },
     {
       "id": "YogurtVaso",
@@ -217,8 +190,7 @@
       "price": 80,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": "- Yogurt natural </br>- Topin",
-      "txt": "..."
+      "descripcion": "- Yogurt natural - Topin"
     },
     {
       "id": "Batidos",
@@ -228,8 +200,7 @@
       "price": 120,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": "- 3 bolsas de helado </br>- medio de helio </br>- media de leche",
-      "txt": "..."
+      "descripcion": "- 3 bolsas de helado - medio de helio - media de leche"
     },
     {
       "id": "Pitufo",
@@ -239,8 +210,7 @@
       "price": 80,
       "agotado": 0,
       "favorito": 0,
-      "descripcion": "- Frappe de Limón </br>- Topin blue",
-      "txt": "..."
+      "descripcion": "- Frappe de Limón - Topin blue"
     },
     {
       "id": "CopaRebelde",
@@ -250,8 +220,7 @@
       "price": 80,
       "agotado": 0,
       "favorito": 0,
-      "descripcion": "- Frappe de Limón </br>- Esencia de menta",
-      "txt": "..."
+      "descripcion": "- Frappe de Limón - Esencia de menta"
     },
     {
       "id": "SuperFrap",
@@ -261,8 +230,7 @@
       "price": 200,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- 1 bola de helado </br>- leche </br>- hielo </br>- muss de cafe",
-      "txt": "..."
+      "descripcion": "- 1 bola de helado - leche - hielo - muss de cafe"
     },
     {
       "id": "Chocomani",
@@ -272,8 +240,7 @@
       "price": 140,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- 1 bola de helado </br>- leche </br>- hielo </br>- muss de cafe",
-      "txt": "..."
+      "descripcion": "- 1 bola de helado - leche - hielo - muss de cafe"
     },
     {
       "id": "CopaFantasia",
@@ -283,8 +250,7 @@
       "price": 200,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- Topin de caramelo </br>- muss de café </br>- 2 bola de de helado de café </br>- Grajea",
-      "txt": "..."
+      "descripcion": "- Topin de caramelo - muss de café - 2 bola de de helado de café - Grajea"
     },
     {
       "id": "DaikiriChicle",
@@ -294,8 +260,7 @@
       "price": 100,
       "agotado": 0,
       "favorito": 1,
-      "descripcion": "- Frappe de Limón<br/>- Esencia de Platanito",
-      "txt": "..."
+      "descripcion": "- Frappe de Limón<br/>- Esencia de Platanito"
     }
   ],
   "product_ss": [
@@ -307,8 +272,7 @@
       "price": 60,
       "agotado": 0,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "Donas",
@@ -318,8 +282,7 @@
       "price": 80,
       "agotado": 0,
       "favorito": 1,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "Pizza",
@@ -329,8 +292,7 @@
       "price": 150,
       "agotado": 0,
       "favorito": 1,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "PanPerrito",
@@ -340,8 +302,7 @@
       "price": 100,
       "agotado": 0,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "PanMantequilla",
@@ -351,8 +312,7 @@
       "price": 50,
       "agotado": 0,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "PanMayonesa",
@@ -362,8 +322,7 @@
       "price": 50,
       "agotado": 0,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "MussKiwi",
@@ -373,8 +332,7 @@
       "price": 100,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- Crema batida </br>- Esencia",
-      "txt": "..."
+      "descripcion": "- Crema batida - Esencia"
     },
     {
       "id": "MussFresa",
@@ -384,8 +342,7 @@
       "price": 200,
       "agotado": 1,
       "favorito": 1,
-      "descripcion": "- Crema batida </br>- Esencia",
-      "txt": "..."
+      "descripcion": "- Crema batida - Esencia"
     },
     {
       "id": "MussHelado",
@@ -395,8 +352,7 @@
       "price": 150,
       "agotado": 0,
       "favorito": 1,
-      "descripcion": "...",
-      "txt": "..."
+      "descripcion": "..."
     },
     {
       "id": "Sandwichqueso",
@@ -406,8 +362,7 @@
       "price": 80,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     }
   ],
   "product_pi": [
@@ -419,8 +374,7 @@
       "price": 50,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "Energizantes",
@@ -430,8 +384,7 @@
       "price": 200,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "Chupa",
@@ -441,8 +394,7 @@
       "price": 50,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "Galletas",
@@ -452,8 +404,7 @@
       "price": 60,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "Galletas2",
@@ -463,8 +414,7 @@
       "price": 100,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "Gaseosa",
@@ -474,8 +424,7 @@
       "price": 180,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     },
     {
       "id": "lata",
@@ -485,8 +434,7 @@
       "price": 180,
       "agotado": 1,
       "favorito": 0,
-      "descripcion": ".....",
-      "txt": "..."
+      "descripcion": "....."
     }
   ]
 }
