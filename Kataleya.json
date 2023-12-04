@@ -6,7 +6,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/expresso.png",
       "star": 4,
       "price": 50,
-      "agotado": 0,
+      "agotado": 1,
       "favorito": 0,
       "descripcion": "- 1 o 2 shots de espresso"
     },
@@ -46,7 +46,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/cafeDalgona.png",
       "star": 4,
       "price": 200,
-      "agotado": 1,
+      "agotado": 0,
       "favorito": 1,
       "descripcion": "- Crema de café  - Leche- - Topin de Café"
     },
@@ -86,7 +86,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/ruso.png",
       "star": 5,
       "price": 80,
-      "agotado": 0,
+      "agotado": 1,
       "favorito": 1,
       "descripcion": "- 1 taza de café fuerte.- 1 bola de helado."
     },
@@ -148,7 +148,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/vacanegra.png",
       "star": 4,
       "price": 100,
-      "agotado": 1,
+      "agotado": 0,
       "favorito": 0,
       "descripcion": "- Refresco gaseado - 1 bola de helado"
     },
@@ -218,7 +218,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/CopaRebelde.png",
       "star": 5,
       "price": 80,
-      "agotado": 0,
+      "agotado": 1,
       "favorito": 0,
       "descripcion": "- Frappe de Limón - Esencia de menta"
     },
