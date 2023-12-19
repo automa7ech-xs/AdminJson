@@ -132,6 +132,16 @@
       "favorito": 0,
       "descripcion": "- 3 bolsas de helado - medio de helio - media de leche"
     },
+     {
+      "id": "lagunaAzul",
+      "title": "Laguna Azul",
+      "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/lagunaAzul.png",
+      "star": 5,
+      "price": ,
+      "agotado": 1,
+      "favorito": 0,
+      "descripcion": "...."
+    },
     {
       "id": "Frappe",
       "title": "Frappe",
