@@ -22,7 +22,7 @@
     },
     {
       "id": "bombom",
-      "title": "Cafe Bombom",
+      "title": "Café Bombóm",
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/bombom.png",
       "star": 4,
       "price": 100,
@@ -42,7 +42,7 @@
     },
     {
       "id": "dalgona",
-      "title": "Dalgona",
+      "title": "Café Dalgona",
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/cafeDalgona.png",
       "star": 4,
       "price": 200,
@@ -52,7 +52,7 @@
     },
     {
       "id": "leche",
-      "title": "Leche",
+      "title": "Taza de Leche",
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/leche.png",
       "star": 4,
       "price": 80,
@@ -62,7 +62,7 @@
     },
     {
       "id": "capuchino",
-      "title": "Capuchino",
+      "title": "Café Capuchino",
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/capuccino.png",
       "star": 4,
       "price": 120,
@@ -72,7 +72,7 @@
     },
     {
       "id": "moka",
-      "title": "Moka",
+      "title": "Café Moka",
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/moka.png",
       "star": 4,
       "price": 120,
@@ -124,7 +124,7 @@
   "product_fria": [
     {
       "id": "Suero",
-      "title": "Suero",
+      "title": "Suero de Helado",
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/seuros.png",
       "star": 5,
       "price": 150,
