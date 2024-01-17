@@ -157,8 +157,8 @@
       "title": "Vaca Negra",
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/vacanegra.png",
       "star": 4,
-      "price": 100,
-      "agotado": 0,
+      "price": 120,
+      "agotado": 1,
       "favorito": 0,
       "descripcion": "- Refresco gaseado - 1 bola de helado"
     },
@@ -177,8 +177,8 @@
       "title": "Piña Colada",
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/piñacolada.png",
       "star": 4,
-      "price": 100,
-      "agotado": 0,
+      "price": 150,
+      "agotado": 1,
       "favorito": 0,
       "descripcion": "...."
     },
@@ -238,7 +238,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/superFrap.png",
       "star": 4,
       "price": 200,
-      "agotado": 0,
+      "agotado": 1,
       "favorito": 1,
       "descripcion": "- 1 bola de helado - leche - hielo - muss de cafe"
     },
