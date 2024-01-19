@@ -36,7 +36,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/frapuchino.png",
       "star": 4,
       "price": 100,
-      "agotado": ,
+      "agotado": 0,
       "favorito": 1,
       "descripcion": "- 2 bolas de helado- Topin"
     },
