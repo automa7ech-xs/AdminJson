@@ -248,7 +248,7 @@
       "image": "https://raw.githubusercontent.com/automa7ech-xs/AdminJson/main/img_drink/Chocomani.jpg",
       "star": 5,
       "price": 140,
-      "agotado": 0,
+      "agotado": 1,
       "favorito": 1,
       "descripcion": "- 1 bola de helado - leche - hielo - muss de cafe"
     },
